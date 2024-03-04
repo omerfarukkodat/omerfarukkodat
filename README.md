@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/cbc7fb734b7d881f8e3fe1e3bd2b22a0/f5086ac2846e4387-c5/s640x960/36597249be5d9fe5ecae6ff7aa1a4d32d2551747.gif)]
+![MasterHead](https://images.squarespace-cdn.com/content/v1/5e4c17267c099a4d625b6fcf/03e2173e-fdaf-40d0-b674-aba71d87b005/future-gaming+%281%29.gif)
 
 <h1 align="center"> Hi 👋, I'm Ömer Faruk Kodat</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
